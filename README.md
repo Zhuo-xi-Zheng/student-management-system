@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 学生管理系统
 
 这是一个基于React+TypeScript+Node.js+Express+MySQL的学生管理系统，支持学生和教师的增删改查功能。
@@ -184,3 +185,7 @@ server/
 ## License
 
 MIT
+=======
+# student-management-system
+homework
+>>>>>>> 5daab4fb05a117d4c51d9f7ad93416dd2299d97e
